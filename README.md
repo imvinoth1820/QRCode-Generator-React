@@ -1,6 +1,6 @@
 # React QR Code Generator
 
-![Project Link](https://qr-code-generator-react-one.vercel.app/)
+[Project Link](https://qr-code-generator-react-one.vercel.app/)
 
 ## Overview
 
